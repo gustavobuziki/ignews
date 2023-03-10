@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-import { SubscribeButton } from './components/subscribe-button/subscribe-button'
+import { SubscribeButton } from '../components/subscribe-button/subscribe-button'
 
 import styles from '../styles/home.module.scss'
 
